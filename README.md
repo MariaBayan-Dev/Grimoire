@@ -1,4 +1,4 @@
-# 🪄 Diary
+# 🪄 Grimorio
 
 Lorem impsum
 
@@ -27,8 +27,9 @@ Lorem impsum
 - Lorem impsum.
 
 ## 🔗 Live Demo
-👉 [Diary](https://mariabayan-dev.github.io/Diary/)
+👉 [Grimorio](https://mariabayan-dev.github.io/Grimorio/)
 
 ## 📸 Preview
 
-<img width="1901" height="901" alt="diary-preview" src="https://github.com/user-attachments/assets/eff0f71f-5682-4c99-8986-8bf089e89478" />
+<img width="1901" height="901" alt="grimorio-preview" src="https://github.com/user-attachments/assets/fcdafdef-0a69-4c3e-8876-61a0c4c52411" />
+
