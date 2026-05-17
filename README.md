@@ -1,12 +1,11 @@
-# 🪄 Grimorio
+# 🪄 Grimorie
 
-Lorem impsum
+Web project emulating a grimoire where you can name the object as you wish and choose the object's class from a drop-down menu.
 
 ## 🚀 Features
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
+- Enter the desired name for the object, along with a description.
+- A drop-down menu allows you to choose the object's class.
+- You can add and remove objects as needed.
 
 ## 🛠️ Technologies
 
@@ -27,7 +26,7 @@ Lorem impsum
 - Lorem impsum.
 
 ## 🔗 Live Demo
-👉 [Grimorio](https://mariabayan-dev.github.io/Grimorio/)
+👉 [Grimorie](https://mariabayan-dev.github.io/Grimoire/)
 
 ## 📸 Preview
 
