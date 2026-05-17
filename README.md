@@ -3,6 +3,7 @@
 Web project emulating a grimoire where you can name the object as you wish and choose the object's class from a drop-down menu.
 
 ## 🚀 Features
+
 - Enter the desired name for the object, along with a description.
 - A drop-down menu allows you to choose the object's class.
 - You can add and remove objects as needed.
@@ -14,16 +15,23 @@ Web project emulating a grimoire where you can name the object as you wish and c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=grey)
 
 ## 📚 What I learned
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
+
+- How to use event delegation to handle click events 
+  on dynamically created elements — instead of adding 
+  a listener to each delete button individually, a single 
+  listener on the parent element detects which button 
+  was clicked using evento.target.closest().
 
 ## 💡 Future improvements
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
-- Lorem impsum.
+
+- Add localStorage support so grimoire entries 
+  persist after page reload.
+- Add the ability to edit existing entries, 
+  not just delete them.
+- Add filtering by item type using JavaScript's 
+  filter() method.
+- Rebuild the project using React to practice 
+  component-based architecture and state management.
 
 ## 🔗 Live Demo
 👉 [Grimorie](https://mariabayan-dev.github.io/Grimoire/)
