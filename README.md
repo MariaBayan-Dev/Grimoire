@@ -16,6 +16,12 @@ Web project emulating a grimoire where you can name the object as you wish and c
 
 ## 📚 What I learned
 
+- How to use objects as data maps to automatically assign 
+  emojis and display names based on user selection, 
+  avoiding repetitive if/else logic.
+- How to dynamically inject new HTML into the DOM using 
+  template literals and innerHTML +=, creating new 
+  entries without reloading the page.
 - How to use event delegation to handle click events 
   on dynamically created elements — instead of adding 
   a listener to each delete button individually, a single 
