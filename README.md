@@ -28,7 +28,7 @@ Web project emulating a grimoire where you can name the object as you wish and c
   listener on the parent element detects which button 
   was clicked using evento.target.closest().
 
-## 💡 Future improvements
+🔮 Future Improvements
 
 - Add localStorage support so grimoire entries 
   persist after page reload.
